@@ -1,2 +1,2 @@
 # javascript-projects
-Meu repositório sobre projetos de Javascript
+Meu repositório sobre projetos de Javascript.
